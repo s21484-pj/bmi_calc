@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">zjazd4</string>
+    <string name="title_home">BMI</string>
+    <string name="title_dashboard">Calories</string>
+    <string name="title_notifications">Recipe</string>
+    <string name="title_quiz">Quiz</string>
+</resources>
